@@ -21,5 +21,13 @@ public class Main {
             System.out.println("Число = "+i);
         }
         System.out.println("");
+        //Задание 4
+        //Выведите в консоль все числа от 10 до - 10 от бОльшего числа к меньшему.
+        for (int i=10; i>-11; i--)
+        {
+            System.out.println("Число = "+i);
+        }
+        System.out.println("");
+
     }
 }
