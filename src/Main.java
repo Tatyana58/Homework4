@@ -13,5 +13,13 @@ public class Main {
         {
             System.out.println("Число = "+i);
         }
+        System.out.println("");
+        //Задание 3
+        //Выведите в консоль все четные числа от 0 до 17.
+        for (int i=0; i<17; i+=2)
+        {
+            System.out.println("Число = "+i);
+        }
+        System.out.println("");
     }
 }
